@@ -19,15 +19,15 @@
 /* body style */
 body{
     background: rgb(255, 255, 255);
-    max-width: 80vw;
-    margin: 0 auto;
+    /* max-width: 80vw;
+    margin: 0 auto; */
 }
 
 /* banner-container style */
 
 .banner-container{
-    /* max-width: 80vw;
-    margin: 0 auto; */
+    max-width: 80vw;
+    margin: 0 auto;
     /* border: 2px solid red; */
     margin-top: 3.5px;
     display: flex;
