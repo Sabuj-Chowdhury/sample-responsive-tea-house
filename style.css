@@ -31,7 +31,7 @@ body{
     /* border: 2px solid red; */
     margin-top: 3.5px;
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 120px;
 }
 .drinks-img-container{
     width: 50%;
@@ -107,9 +107,9 @@ body{
 /* feature-container STYLE */
 
 
-/* .feature-container{
-
-} */
+ .feature-container{
+    margin-bottom: 120px;
+} 
 .feature-text-container{
     text-align: center;
 }
