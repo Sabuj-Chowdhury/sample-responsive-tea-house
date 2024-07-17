@@ -22,11 +22,12 @@ body{
 }
 
 /* banner-container style */
+
 .banner-container{
     max-width: 80vw;
     margin: 0 auto;
     /* border: 2px solid red; */
-    margin-top: 50px;
+    margin-top: 3.5px;
     display: flex;
 }
 .drinks-img-container{

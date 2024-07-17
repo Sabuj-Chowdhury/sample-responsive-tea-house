@@ -1,0 +1,33 @@
+/* mobile */
+@media screen and (max-width:576px) {
+
+    /* banner section */
+    .banner-container{
+        max-width: 100vw;
+        margin-top: .5em;
+        flex-direction: column;
+    }
+    .drinks-text-container{
+        width: 100%;
+        padding: .5rem;
+        text-align: center;
+    }
+    .banner-heading{
+        font-size: 2.5em;
+        
+    }
+    .banner-description{
+        font-size: 1em;
+    }
+    .drinks-img-container{
+        width: 100%;
+        margin-top: .5em;
+        position: static;
+        align-items: center;
+    }
+    .rating-container{
+      
+        position: static;
+        
+    }
+}
